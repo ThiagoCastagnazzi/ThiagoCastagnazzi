@@ -16,14 +16,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 </div>
-###---------------------------------------------------------------------------------------------
+
+
 <div>
 <a href="https://github.com/ThiagoCastagnazzi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCastagnazzi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCastagnazzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatos:
+#### Contatos:
 <div>
 <a href="https://instagram.com/thiago_castagnazzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/ddgthiagocast" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
