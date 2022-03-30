@@ -19,7 +19,11 @@
     </tr>
     <tr>
         <th>Ganso Retaguarda
+        <th>Sistema M&M Insumos
+    </tr>
+    <tr>
         <th>Ganso PDV
+        <th>Sistema M&M Restaurante
     </tr>
     </table>
   
