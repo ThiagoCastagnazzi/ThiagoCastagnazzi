@@ -19,11 +19,11 @@
     </tr>
     <tr>
         <td>Ganso Retaguarda
-        <td>Sistema M&M Insumos
+        <td>M&M Insumos
     </tr>
     <tr>
         <td>Ganso PDV
-        <td>Sistema M&M Restaurante
+        <td>M&M Restaurante
     </tr>
     </table>
   
