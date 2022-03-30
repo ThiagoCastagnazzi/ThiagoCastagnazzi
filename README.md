@@ -14,16 +14,16 @@
 ## Experiências
   <table>
     <tr>
-        <td>Ganso Sistemas
-        <td>Mega Tecnologia
+        <th>Ganso Sistemas
+        <th>Mega Tecnologia
     </tr>
     <tr>
-        <th>Ganso Retaguarda
-        <th>Sistema M&M Insumos
+        <td>Ganso Retaguarda
+        <td>Sistema M&M Insumos
     </tr>
     <tr>
-        <th>Ganso PDV
-        <th>Sistema M&M Restaurante
+        <td>Ganso PDV
+        <td>Sistema M&M Restaurante
     </tr>
     </table>
   
