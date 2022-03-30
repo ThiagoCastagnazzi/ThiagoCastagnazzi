@@ -14,8 +14,8 @@
 ## Experiências
   <table>
     <tr>
-        <th>Ganso Sistemas
-        <th>Mega Tecnologia
+        <td>Ganso Sistemas
+        <td>Mega Tecnologia
     </tr>
     <tr>
         <th>Ganso Retaguarda
