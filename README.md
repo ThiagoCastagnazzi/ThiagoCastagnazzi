@@ -1,8 +1,8 @@
-### Olá, meu nome é Thiago Castagnazzi e trabalho como Analista de Suporte Técnico Computacional na empresa Mega Tecnologia. 👋
+# Olá, meu nome é Thiago Castagnazzi e trabalho como Analista de Suporte Técnico Computacional na empresa Mega Tecnologia. 👋
 
-### Estudo Análise e Desenvimento de Sistemas e tenho práticas com as Ferramentos e Tecnologias.
+## Estudo Análise e Desenvimento de Sistemas e tenho práticas com as Ferramentos e Tecnologias.
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -24,7 +24,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCastagnazzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-#### Contatos:
+### Contatos:
 <div>
 <a href="https://instagram.com/thiago_castagnazzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/ddgthiagocast" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
