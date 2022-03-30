@@ -26,11 +26,11 @@
         <td>M&M Restaurante
     </tr>
     <tr>
-        <td>
+        <td>Ganso Radar
         <td>M&M Etiquetas
     </tr>
     <tr>
-        <td>
+        <td>Ganso Cotação WEB
         <td>M&M Restaurante Mobile
     </tr>
     </table>
