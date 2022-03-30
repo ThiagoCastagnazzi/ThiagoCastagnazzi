@@ -1,7 +1,6 @@
 # Olá, meu nome é Thiago Castagnazzi e trabalho como Analista de Suporte Técnico Computacional na empresa Mega Tecnologia. 👋
 
 ## Oque faço?
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 ### Trabalho como Suporte HelpDesk ajudando clientes que estão dúvidas sobre funções do sistema, realizo treinamentos e revendo os sistemas para empresas do comércio para automatizar suas gerências de estoque, financeiro, emissão de Documentos Fiscais como NFe, NFCe, MDFe e CTe.
 ### Estudo Análise e Desenvolvimento de Sistemas e tenho práticas com as Ferramentos e Tecnologias abaixo.
