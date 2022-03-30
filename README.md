@@ -16,7 +16,10 @@
     <tr>
         <th>Ganso Sistemas
         <th>Mega Tecnologia
-        <td>Teste
+    </tr>
+    <tr>
+        <th>Ganso Retaguarda
+        <th>Ganso PDV
     </tr>
     </table>
   
