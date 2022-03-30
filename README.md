@@ -25,6 +25,14 @@
         <td>Ganso PDV
         <td>M&M Restaurante
     </tr>
+    <tr>
+        <td>
+        <td>M&M Etiquetas
+    </tr>
+    <tr>
+        <td>
+        <td>M&M Restaurante Mobile
+    </tr>
     </table>
   
   
