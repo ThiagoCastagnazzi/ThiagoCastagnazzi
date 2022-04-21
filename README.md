@@ -2,7 +2,7 @@
 
 ## Oque faço?
 
-### Trabalho como Suporte HelpDesk ajudando clientes que estão dúvidas sobre funções do sistema, realizo treinamentos e revendo os sistemas para empresas do comércio para automatizar suas gerências de estoque, financeiro, emissão de Documentos Fiscais como NFe, NFCe, MDFe e CTe.
+### Trabalho como Suporte HelpDesk auxiliando clientes com dúvidas sobre funções do sistema, realizo treinamentos e revendo os sistemas para empresas do comércio para automatizar suas gerências de estoque, financeiro, emissão de Documentos Fiscais como NFe, NFCe, MDFe e CTe.
 ### Estudo Análise e Desenvolvimento de Sistemas e tenho práticas com as Ferramentos e Tecnologias abaixo.
 
 ## Ferramentas e Tecnologias
