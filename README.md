@@ -2,7 +2,7 @@
 
 ## Oque faço?
 
-### Trabalho como Suporte HelpDesk auxiliando clientes com dúvidas sobre funções do sistema, realizo treinamentos e revendo os sistemas para empresas do comércio para automatizar suas gerências de estoque, financeiro, emissão de Documentos Fiscais como NFe, NFCe, MDFe e CTe.
+### Trabalho como Análista de Suporte Técnico desde 2020 dando suporte, treinamento, visitas e revenda de sistemas. Tenho conhecimentos em Desenvolvimento Front End em tecnologias como HTML5, CSS3, JavaScript ES6 e ReactJS, pré-processador como SCSS, estruturação de dados, orientação a objetos, versionamento de códigos como o Git, possuo conhecimentos em SQL e Firebase. Estou sempre estudando cada vez mais para ir aprimorando meu conhecimento em tecnologias.
 ### Estudo Análise e Desenvolvimento de Sistemas e tenho práticas com as Ferramentos e Tecnologias abaixo.
 
 ## Ferramentas e Tecnologias
