@@ -1,4 +1,5 @@
-# Olá, meu nome é Thiago Castagnazzi e trabalho como Analista de Suporte Técnico Computacional na empresa Mega Tecnologia. 👋
+# Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Front End.
+# Atualmente trabalho como Analista de Suporte Técnico Computacional na empresa Mega Tecnologia. 👋
 
 ## Oque faço?
 
