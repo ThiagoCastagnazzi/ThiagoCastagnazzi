@@ -1,5 +1,5 @@
 # Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Front End.
-# Atualmente trabalho como Desenvolvedor Junior na empresa Mercado Radar. 👋
+# Atualmente trabalho como Desenvolvedor Front End Junior na empresa Mercado Radar. 👋
 
 ## Oque faço?
 
