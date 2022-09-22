@@ -10,6 +10,24 @@
 </div>
   
 ## Experiências
+   <table>
+    <tr>
+        <th>Mercado Radar
+    </tr>
+    <tr>
+        <td>Vue
+    </tr>
+    <tr>
+        <td>Vuex
+    </tr>
+    <tr>
+        <td>React
+    </tr>
+    <tr>
+        <td>Next
+    </tr>
+   </table>
+  
   <table>
     <tr>
         <th>Ganso Sistemas
