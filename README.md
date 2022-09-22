@@ -15,16 +15,16 @@
         <th>Mercado Radar
     </tr>
     <tr>
-        <td>Vue
+        <td>VueJS
     </tr>
     <tr>
         <td>Vuex
     </tr>
     <tr>
-        <td>React
+        <td>ReactTS
     </tr>
     <tr>
-        <td>Next
+        <td>NextTS
     </tr>
    </table>
   
