@@ -1,4 +1,4 @@
-# Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Front End.
+# Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Web.
 
 ### Trabalhei como Desenvolvedor Frontend Junior na empresa Mercado Radar migrando o Front End do sistema em Vue/Vuex para Next com TypeScript. Tenho experiencias como Análista de Suporte Técnico desde 2020 dando suporte, treinamento, visitas e revenda de sistemas. Tenho conhecimentos em Desenvolvimento Front End em tecnologias como HTML5, CSS3, JavaScript, ReactJS, NextJS, Vue e Vuex, estruturação de dados, orientação a objetos, versionamento de códigos com o Git e possuo conhecimentos em consultas SQL. Estou sempre estudando cada vez mais para ir aprimorando meu conhecimento em tecnologias.
 
