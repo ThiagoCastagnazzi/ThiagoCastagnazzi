@@ -9,46 +9,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCastagnazzi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## Experiências
-   <table>
-    <tr>
-        <th>Mercado Radar
-    </tr>
-    <tr>
-        <td>Vue
-    </tr>
-    <tr>
-        <td>React
-    </tr>
-    <tr>
-        <td>Next
-    </tr>
-   </table>
-  
-  <table>
-    <tr>
-        <th>Ganso Sistemas
-        <th>Mega Tecnologia
-    </tr>
-    <tr>
-        <td>Ganso Retaguarda
-        <td>M&M Insumos
-    </tr>
-    <tr>
-        <td>Ganso PDV
-        <td>M&M Restaurante
-    </tr>
-    <tr>
-        <td>Ganso Radar
-        <td>M&M Etiquetas
-    </tr>
-    <tr>
-        <td>Ganso Cotação WEB
-        <td>M&M Restaurante Mobile
-    </tr>
-    </table>
-  
-  
 ### Contatos:
 <div>
 <a href="https://instagram.com/thiago_castagnazzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
