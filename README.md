@@ -1,6 +1,6 @@
 # Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Web.
 
-### Sou um Desenvolvedor de sistemas, com foco no em desenvolvimento para web com tecnologias como HTML, CSS, JavaScript, e PHP.
+### Sou um Desenvolvedor de sistemas, com foco no em desenvolvimento para web com tecnologias como HTML, CSS e JavaScript.
 ### Banco de Dados: Postgres e MySQL.
 
 ## Ferramentas e Tecnologias
