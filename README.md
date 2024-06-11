@@ -1,6 +1,6 @@
 # Olá, meu nome é Thiago Castagnazzi, Desenvolvedor Web.
 
-### Sou um Desenvolvedor de sistemas, com foco no em desenvolvimento para web com tecnologias como NextJS, TailwindCSS, SaSS, Styled Components, Docker, WebSocket e entre outras.
+### Sou um Desenvolvedor de sistemas, com foco no em desenvolvimento para web com tecnologias como NextJS, TailwindCSS, SaSS, Styled Components, Docker, Python, Django e entre outras.
 ### Banco de Dados: Postgres e MySQL.
 
 ## Ferramentas e Tecnologias
